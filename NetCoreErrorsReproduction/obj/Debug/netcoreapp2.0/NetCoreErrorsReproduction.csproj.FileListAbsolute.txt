@@ -1,0 +1,11 @@
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\bin\Debug\netcoreapp2.0\NetCoreErrorsReproduction.deps.json
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\bin\Debug\netcoreapp2.0\NetCoreErrorsReproduction.runtimeconfig.json
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\bin\Debug\netcoreapp2.0\NetCoreErrorsReproduction.runtimeconfig.dev.json
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\bin\Debug\netcoreapp2.0\NetCoreErrorsReproduction.dll
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\obj\Debug\netcoreapp2.0\NetCoreErrorsReproduction.csprojResolveAssemblyReference.cache
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\obj\Debug\netcoreapp2.0\NetCoreErrorsReproduction.csproj.CoreCompileInputs.cache
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\obj\Debug\netcoreapp2.0\NetCoreErrorsReproduction.AssemblyInfoInputs.cache
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\obj\Debug\netcoreapp2.0\NetCoreErrorsReproduction.AssemblyInfo.cs
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\bin\Debug\netcoreapp2.0\NetCoreErrorsReproduction.pdb
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\obj\Debug\netcoreapp2.0\NetCoreErrorsReproduction.dll
+C:\Users\stocker\Desktop\test\github\NetCoreErrorsReproduction\NetCoreErrorsReproduction\obj\Debug\netcoreapp2.0\NetCoreErrorsReproduction.pdb
